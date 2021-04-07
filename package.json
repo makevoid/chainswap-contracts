@@ -1,0 +1,16 @@
+{
+  "name": "cheapeth-truffle-config",
+  "scripts": {
+    "start": "node main.js",
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "version": "truffle version",
+    "deploy": "truffle deploy",
+    "migrate": "truffle migrate",
+    "remigrate": "truffle migrate --reset"
+  },
+  "dependencies": {
+    "solc": "^0.8.3",
+    "truffle": "^5.3.0"
+  }
+}

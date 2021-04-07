@@ -1,0 +1,4 @@
+.private-key*.txt
+node_modules
+build
+data/contract-address.txt
